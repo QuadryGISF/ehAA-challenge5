@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(217, 226, 226);
+}
+   
+body { margin: 0px 350px 100px 350px
+}
+
+#title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: deeppink;
+}
+#most {
+    color: dimgray;
+}
+
+#colourful {
+    color: darkgoldenrod;
+}
+
+#mammals {
+    color: red;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
